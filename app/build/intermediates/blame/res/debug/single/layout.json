@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Demo\\AndroidStudio\\ListChecked1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Demo\\AndroidStudio\\ListChecked1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Demo\\AndroidStudio\\ListChecked1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\delmenu_layout.xml",
+        "source": "D:\\Demo\\AndroidStudio\\ListChecked1\\app\\src\\main\\res\\layout\\delmenu_layout.xml"
+    },
+    {
+        "merged": "D:\\Demo\\AndroidStudio\\ListChecked1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_view.xml",
+        "source": "D:\\Demo\\AndroidStudio\\ListChecked1\\app\\src\\main\\res\\layout\\item_view.xml"
+    }
+]
